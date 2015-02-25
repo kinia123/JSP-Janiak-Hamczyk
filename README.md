@@ -38,3 +38,4 @@ JSP_Projekt
 
 6. Po zasileniu bazy danych można zmienić perspektywę i uruchomić projekt za pomocą polecenia Run On Server
 
+
